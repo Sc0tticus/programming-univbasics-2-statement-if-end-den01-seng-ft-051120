@@ -8,7 +8,9 @@
 #end
 #puts "Oh, and always wear sunscreen!"
 
-current_time = Time.now
+currentTime = Time.now
+current_time = currentTime.to_i
+
 if TRUE
   puts "Even!"
 else 
