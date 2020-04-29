@@ -7,3 +7,9 @@
 #  puts "Enjoy the fine day!"
 #end
 #puts "Oh, and always wear sunscreen!"
+
+if TRUE
+  puts "Even!"
+else 
+  puts "Odd!"
+end
