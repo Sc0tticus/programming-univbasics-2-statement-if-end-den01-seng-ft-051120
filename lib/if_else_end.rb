@@ -8,6 +8,7 @@
 #end
 #puts "Oh, and always wear sunscreen!"
 
+current_time = Time.now
 if TRUE
   puts "Even!"
 else 
